@@ -35,7 +35,7 @@ For more details, see the readme of the repository at:
  docker run -td --rm --network host --name trex-demo trexsec/pam-demo:latest
 ```
 
-* SSH into the demo: (replace `device-address` with the actual address)
+* SSH into the demo: (replace `device-address` with the actual address, usually `localhost`)
 ```
 ssh -o StrictHostKeyChecking=no docker@device-address -p2222
 ```
