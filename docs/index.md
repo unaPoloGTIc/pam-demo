@@ -53,7 +53,8 @@ ssh -o StrictHostKeyChecking=no docker@device-address -p2222
 
 ## Proceed to the demo of the proprietary product:
 
-### The server for our demo is currently being renovated.
+## The server for our demo is currently being renovated.
+
 ## Please refer to the Dockerfile to see how to add your own keys locally.
 ## Use your keys to login to the demo container.
 
